@@ -1,14 +1,18 @@
 name: d4
 version: 0.1.0
 description: D4 is an ongoing project to port the D3 JavaScript library to the Dart language.
-repository: https://github.com/SBanksX/d4
+repository: https://github.com/luizbarboza/d4
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
 
 dependencies:
+  d4_array: ^1.0.0
+  d4_color: ^1.0.0
+  d4_dsv: ^1.0.0
   d4_geo: ^1.0.1
   d4_geo_parse: ^1.0.1
+  d4_interpolate: ^1.0.0
 
 dev_dependencies:
   lints: ^2.0.1
