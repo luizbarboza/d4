@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  D4 is an ongoing project to port the <a href="ttps://github.com/d3/d3">D3 JavaScript library</a> to the Dart language.
+  D4 is an ongoing project to port the <a href="https://github.com/d3/d3">D3 JavaScript library</a> to the Dart language.
 </p>
 
 <p align="center">
@@ -22,6 +22,8 @@
 </h3>
 
 **D4** brings to the Dart language and Flutter ecosystem all the power of D3 (or D3.js) — a free, open-source JavaScript library for data visualization. D4 offers a suite of low-level tool libraries that enable the creation of data-driven documents, connecting Dart and HTML, as well as dynamic and interactive visualizations for multiplatform Flutter applications — mobile, web, desktop, and embedded — from a single codebase.
+
+See one of:
 
 * [d4_array](https://pub.dev/packages/d4_array) - List manipulation, ordering, searching, summarizing, etc.
 * [d4_color](https://pub.dev/packages/d4_color) - Color spaces! RGB, HSL, Cubehelix, CIELAB, and more.
