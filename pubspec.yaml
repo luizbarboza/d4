@@ -10,9 +10,13 @@ dependencies:
   d4_array: ^1.0.0
   d4_color: ^1.0.0
   d4_dsv: ^1.0.0
+  d4_format: ^1.0.0
   d4_geo: ^1.0.1
   d4_geo_parse: ^1.0.1
   d4_interpolate: ^1.0.0
+  d4_scale: ^0.1.0
+  d4_time: ^1.0.0
+  d4_time_format: ^1.0.0
 
 dev_dependencies:
   lints: ^2.0.1
