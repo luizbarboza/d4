@@ -14,7 +14,12 @@ dependencies:
   d4_geo: ^1.0.1
   d4_geo_parse: ^1.0.1
   d4_interpolate: ^1.0.0
+  d4_path: ^1.0.0
+  d4_polygon: ^1.0.0
+  d4_random: ^1.0.0
   d4_scale: ^0.1.0
+  d4_scale_chromatic: ^1.0.0
+  d4_shape: ^1.0.0
   d4_time: ^1.0.0
   d4_time_format: ^1.0.0
 

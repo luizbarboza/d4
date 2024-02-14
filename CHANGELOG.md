@@ -1,3 +1,18 @@
+## 0.4.0
+
+### Added
+
+- d4_path
+- d4_polygon
+- d4_random
+- d4_scale_chromatic
+- d4_shape
+
+### Fixed
+
+- d4_time was not exported, now it is
+- d4_time_format was not exported, now it is
+
 ## 0.3.0
 
 ### Added
