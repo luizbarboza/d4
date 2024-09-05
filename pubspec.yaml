@@ -4,21 +4,31 @@ description: D4 is an ongoing project to port the D3 JavaScript library to the D
 repository: https://github.com/luizbarboza/d4
 
 environment:
-  sdk: '>=2.18.0 <3.0.0'
+  sdk: '>=2.19.0 <3.0.0'
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 
 dependencies:
   d4_array: ^1.0.0
   d4_color: ^1.0.0
   d4_dsv: ^1.0.0
   d4_format: ^1.0.0
-  d4_geo: ^1.0.1
+  d4_geo: ^2.0.0
   d4_geo_parse: ^1.0.1
+  d4_hierarchy: ^0.1.0
   d4_interpolate: ^1.0.0
   d4_path: ^1.0.0
   d4_polygon: ^1.0.0
   d4_random: ^1.0.0
   d4_scale: ^0.1.0
   d4_scale_chromatic: ^1.0.0
+  d4_selection: ^0.1.0
   d4_shape: ^1.0.0
   d4_time: ^1.0.0
   d4_time_format: ^1.0.0

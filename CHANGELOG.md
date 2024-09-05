@@ -1,3 +1,15 @@
+## 0.5.0
+
+### Added
+
+- d4_hierarchy
+- d4_selection
+
+### Changed
+
+- d4_geo version to 2.0.0
+- lower-bound SDK constraint to 2.19.0
+
 ## 0.4.0
 
 ### Added
