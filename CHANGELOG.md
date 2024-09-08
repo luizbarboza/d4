@@ -1,3 +1,9 @@
+## 0.6.0
+
+### Changed
+
+- d4_shape version to 1.1.0
+
 ## 0.5.0
 
 ### Added
